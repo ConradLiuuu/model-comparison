@@ -1,0 +1,6 @@
+all: all datasets training model
+independent: using corresponding dataset training model
+
+in foler (for plot error distribution)
+hitting point: hitting point 3rd v.s. end (n-10)
+model: model error

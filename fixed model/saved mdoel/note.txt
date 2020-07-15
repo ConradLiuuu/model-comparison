@@ -1,0 +1,2 @@
+folder 60 hz culstm: predict models using all data, no testing data
+folder 500 data: predict models using random splited data and only using 500 training data and 250 testing data
